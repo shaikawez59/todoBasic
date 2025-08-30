@@ -176,7 +176,7 @@ This project is free to use.
 
 ## Author / Contact
 
-`Shaik Awez`.
+Shaik Awez.
 
 If you'd like, I can also:
 
