@@ -45,8 +45,8 @@ A simple and practical Todo application that demonstrates core React concepts (c
 
 ```bash
 # Clone the repo
-git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
-cd <REPO_NAME>
+git clone https://github.com/shaikawez59/todoBasic.git
+cd <todoBasic>
 
 # Install dependencies
 npm install
@@ -170,13 +170,13 @@ Contributions are welcome! If you want to add features or fix bugs:
 
 ## License
 
-This project is free to use. Add a license file if you want to specify one (e.g., `MIT`).
+This project is free to use. 
 
 ---
 
 ## Author / Contact
 
-Your name (edit this) — e.g. `Shaik Awez`.
+`Shaik Awez`.
 
 If you'd like, I can also:
 
